@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-03-21T02:14:12.212Z" agent="5.0 (Macintosh)" version="21.0.8" etag="P3_Dt0j9Lgaoq225rDM8" type="github"><diagram name="Page-1" id="Sq9gV2uepcP8my5NlQio">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-21T02:14:44.215Z" agent="5.0 (Macintosh)" etag="Y6-wJCaInxdi4cW1snQg" version="21.0.8" type="github">
+  <diagram name="Page-1" id="Sq9gV2uepcP8my5NlQio">
+    <mxGraphModel dx="2125" dy="1543" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FI2093kxfjt4sLc0AykA-1" value="&lt;div&gt;Collect data.&lt;/div&gt;&lt;div&gt;Learn to code (ie: Python, Java or C++)&lt;/div&gt;&lt;div&gt;Learn math.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Unite with friends.&lt;/div&gt;&lt;div&gt;Buy/hire powerful computer or cloud computing platform.&lt;br&gt;&lt;/div&gt;&lt;div&gt;Keep collecting data and clean it.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;If there are no materials available (lithium, labour, chip manufacturing, etc.) generate lobby scheme. &lt;br&gt;&lt;/div&gt;&lt;div&gt;Train, test and deploy AI model.&lt;/div&gt;&lt;div&gt;Repeat.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Ask your friends to test it for you.&lt;/div&gt;&lt;div&gt;Give them exclusive access.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="900" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-2" value="AI PIECE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="145" y="120" as="sourcePoint" />
+            <mxPoint x="145" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="30" y="216" width="575" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="FI2093kxfjt4sLc0AykA-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="175" as="sourcePoint" />
+            <mxPoint x="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-6" value="" style="group" vertex="1" connectable="0" parent="FI2093kxfjt4sLc0AykA-4">
+          <mxGeometry y="60" width="575" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-7" value="keep in blackbox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Courier New;" vertex="1" parent="FI2093kxfjt4sLc0AykA-6">
+          <mxGeometry x="325" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-8" value="Select" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Courier New;" vertex="1" parent="FI2093kxfjt4sLc0AykA-6">
+          <mxGeometry width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-9" value="" style="group" vertex="1" connectable="0" parent="FI2093kxfjt4sLc0AykA-6">
+          <mxGeometry x="150" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-10" value="&lt;font face=&quot;Courier New&quot;&gt;select algorithm, keep in &lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;hachureGap=4;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillStyle=solid;fillColor=#000000;" vertex="1" parent="FI2093kxfjt4sLc0AykA-9">
+          <mxGeometry width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FI2093kxfjt4sLc0AykA-11" value="keep in blackbox" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Courier New;" vertex="1" parent="FI2093kxfjt4sLc0AykA-9">
+          <mxGeometry x="80" y="10" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
